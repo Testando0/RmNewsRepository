@@ -1,22 +1,22 @@
 [
     {
         "id": "crossfade-resolved.md",
-        "Title": "Crossfade Issue Resolved",
-        "Description": "The crossfade issue has now been officially resolved and the feature has been re-enabled.",
+        "Title": "Crisálida x NVIDIA: Nova Parceria",
+        "Description": "Crisálida firma parceria com a NVIDIA para acelerar o processamento de IA e trazer respostas ainda mais rápidas.",
         "ImageURL": [
             "https://i.ibb.co/3wyszFN/1003954733.jpg"
         ],
-        "Important": false,
+        "Important": true,
         "Author": "Redzin",
-        "Date": "1779735840"
+        "Date": "1783425600"
     },
     {
         "id": "development-paused.md",
-        "Title": "Development Paused Due To Hardware Issue",
-        "Description": "Development of this project will be paused for the next few weeks",
+        "Title": "Novidades na Plataforma",
+        "Description": "Confira as últimas atualizações e melhorias que chegaram na plataforma essa semana.",
         "ImageURL": [],
-        "Important": true,
+        "Important": false,
         "Author": "Redzin",
-        "Date": "1781300460"
+        "Date": "1783242000"
     }
 ]

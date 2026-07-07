@@ -1,13 +1,17 @@
-# Crossfade Feature Re-Enabled
+# Crisálida x NVIDIA: Nova Parceria
 
-After weeks of tinkering with the exoplayer engine, the crossfade issue has now been officially resolved and the feature has been re-enabled.
+A Crisálida firma parceria oficial com a NVIDIA, unindo o poder de processamento da RPU (Rapid Processing Unit) e GPU para elevar o desempenho da IA a um novo patamar.
 
-The feature was previously disabled while the audio engine underwent major stability improvements and compatibility testing. During this process, playback handling and transition systems were reviewed and optimized to reduce audio glitches, improve synchronization, and ensure smoother transitions between tracks.
+Essa integração permite distribuir as cargas de trabalho entre RPU e GPU de forma inteligente, aproveitando o melhor de cada arquitetura: a RPU cuida do processamento leve e contínuo, enquanto a GPU assume as tarefas mais pesadas de inferência, resultando em respostas mais rápidas e um uso de energia mais eficiente.
 
-With these improvements completed, crossfade should now provide a more stable and reliable listening experience across supported devices.
+Com essa mudança, os usuários podem esperar:
 
-The feature is currently rolling out through the latest application updates.
+- Respostas mais rápidas em conversas complexas
+- Menor consumo de bateria em dispositivos compatíveis
+- Maior estabilidade em sessões prolongadas
 
-> **Important:** If you are currently using the Stable build, make sure to install the newest Nightly build to receive the latest fixes, optimizations, and restored crossfade support.
+> **Importante:** os benefícios completos dessa parceria dependem de hardware compatível com aceleração NVIDIA. Dispositivos sem suporte continuarão funcionando normalmente, sem os ganhos de desempenho.
 
-Thank you for your patience and continued support while these improvements were being completed.
+A atualização já está sendo distribuída gradualmente através dos updates mais recentes do aplicativo.
+
+Agradecemos o apoio contínuo de todos enquanto seguimos evoluindo a Crisálida.

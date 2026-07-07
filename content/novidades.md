@@ -1,10 +1,21 @@
-Development of this project will be paused for the next few weeks. At the moment, there is no estimated date for when full development will continue.
+# Novidades na Plataforma
 
-The reason is that my PC GPU is currently broke, which prevents me from properly working on, testing, and continuing development of the project. Because of this hardware issue, progress from my side will be temporarily stopped until the problem is fixed.
+Chegou a nova atualização com melhorias em toda a plataforma.
 
-However, the project is not abandoned. Minor updates, fixes, or small improvements may still continue to be made by other contributors during this pause.
+## RedMusic Together
 
-Thank you for your patience and understanding.
+Agora você pode ouvir música em tempo real com seus amigos, sincronizado, direto pelo app.
 
-For more information, you can read the full message here:
-https://t.me/ArchiveTuneGC/1485/44007
+## Integração com múltiplos modelos de IA
+
+Suporte a diversos modelos de IA de vários provedores diferentes, direto na plataforma.
+
+## Novo Design
+
+Visual completamente renovado, mais futurista e moderno.
+
+## Correções de Desempenho
+
+Diversos ajustes internos para deixar o app mais rápido e estável.
+
+Agradecemos o apoio contínuo de todos enquanto seguimos evoluindo a plataforma.
